@@ -1,6 +1,6 @@
-# flask_api_rest_manifest
+# flask_api_GraphQL_manifest
 
-> api-python-helloworld is a simple python microservice. development with Flask and Restful library
+> api-python-helloworld is a simple python microservice. development with Flask and GraphQL library
 
 # Google Kubernetes Engine
 

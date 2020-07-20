@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: api-python-helloworld
-        image: ed00m/flask_api_restful:v0.1
+        image: ed00m/flask_api_graphql:v0.1
         ports:
         - containerPort: 8000
         livenessProbe:

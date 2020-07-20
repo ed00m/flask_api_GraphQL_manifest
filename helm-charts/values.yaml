@@ -7,7 +7,7 @@ global:
     Port: 8000
 
 image:
-  repository: ed00m/flask_api_restful
+  repository: ed00m/flask_api_graphql
   tag: v0.1
 
 deployment:
